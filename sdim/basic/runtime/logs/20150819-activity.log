@@ -1,0 +1,6 @@
+2015-08-19|18:35:13|super@gmail.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-08-19|19:24:33|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-19|19:24:54|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-19|19:25:05|super@gmail.com|127.0.0.1|localhost.com|INFO|event/tw-callback|Twitter authentication success|[] 
+2015-08-19|19:25:50|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-19|19:25:56|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter authentication success|[] 

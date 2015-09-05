@@ -1,0 +1,13 @@
+2015-07-29|08:51:58|super@gmail.com|::1|localhost|INFO|site/login|Login success|[] 
+2015-07-29|08:52:06|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55b846dedc78c18801000029"},"keyword":"#obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-29 03:22:06"}] 
+2015-07-29|09:12:11|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b846dedc78c18801000029"} 
+2015-07-29|09:12:27|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55b84ba3dc78c1880100002a"},"keyword":"#gagtest","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-29 03:42:27"}] 
+2015-07-29|18:36:00|super@gmail.com|::1|localhost|INFO|site/login|Login success|[] 
+2015-07-29|18:36:06|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b799abdc78c1a81200002a"} 
+2015-07-29|18:36:09|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b84ba3dc78c1880100002a"} 
+2015-07-29|18:40:34|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55b8d0cadc78c15c12000029"},"keyword":"#wavenet","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-29 13:10:34"}] 
+2015-07-29|18:42:14|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b8d0cadc78c15c12000029"} 
+2015-07-29|18:42:24|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55b8d138dc78c15c1200002a"},"keyword":"#obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-29 13:12:24"}] 
+2015-07-29|18:55:34|super@gmail.com|::1|localhost|INFO|site/login|Login success|[] 
+2015-07-29|19:29:01|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b8d138dc78c15c1200002a"} 
+2015-07-29|19:29:06|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55b8dc2adc78c14c12000029"},"keyword":"obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-29 13:59:06"}] 

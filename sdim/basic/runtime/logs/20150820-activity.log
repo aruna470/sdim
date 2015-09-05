@@ -1,0 +1,7 @@
+2015-08-20|06:56:08|super@gmail.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-08-20|19:29:56|super@gmail.com|127.0.0.1|localhost.com|INFO|event/delete|Event deleted.|{"id":"55ce108ddc78c1cc0e00003c"} 
+2015-08-20|19:30:00|super@gmail.com|127.0.0.1|localhost.com|INFO|event/delete|Event deleted.|{"id":"55ce1077dc78c1cc0e00003b"} 
+2015-08-20|19:30:04|super@gmail.com|127.0.0.1|localhost.com|INFO|event/delete|Event deleted.|{"id":"55ce10a9dc78c1cc0e00003d"} 
+2015-08-20|19:30:07|super@gmail.com|127.0.0.1|localhost.com|INFO|event/delete|Event deleted.|{"id":"55cea969dc78c1e81300002f"} 
+2015-08-20|19:37:54|super@gmail.com|127.0.0.1|localhost.com|INFO|event/update-product-text|Product text updated.|[] 
+2015-08-20|19:37:56|super@gmail.com|127.0.0.1|localhost.com|INFO|event/update-product-text|Product text updated.|[] 

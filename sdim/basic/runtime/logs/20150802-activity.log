@@ -1,0 +1,11 @@
+2015-08-02|06:15:13|super@gmail.com|127.0.0.1|localhost|INFO|event/delete|Event deleted.|{"id":"55bcef06dc78c1c01200002b"} 
+2015-08-02|06:15:52|super@gmail.com|127.0.0.1|localhost|INFO|event/create|Event created.|[{"_id":{"$id":"55bd6840dc78c1d80d00002c"},"keywordId":"55bcf13edc78c1d80d00002a","eventName":"Mobile Event","status":"1","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-02|06:28:57|super@gmail.com|127.0.0.1|localhost|INFO|event/create|Event create failed. Validation failed.|[{"keywordId":["Hash Tag has already been taken."],"accountId":["Responder account has already been taken."]}] 
+2015-08-02|07:03:02|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bd6840dc78c1d80d00002c"},"keywordId":"55bcf13edc78c1d80d00002a","eventName":"Big Event","status":"1","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-02|07:18:48|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bd6840dc78c1d80d00002c"},"keywordId":"55bcf13edc78c1d80d00002a","eventName":"Big Event","status":"2","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-02|07:43:55|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bd6840dc78c1d80d00002c"},"keywordId":"55bcf13edc78c1d80d00002a","eventName":"Big Event","status":"1","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-02|11:40:34|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bdb45adc78c1c80b00002a"},"keyword":"obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-02 06:10:34"}] 
+2015-08-02|13:12:07|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bdb45adc78c1c80b00002a"} 
+2015-08-02|19:52:09|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55be2791dc78c1f40500002c"},"keyword":"obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-02 14:22:09"}] 
+2015-08-02|19:53:32|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55be2791dc78c1f40500002c"} 
+2015-08-02|20:11:13|super@gmail.com|127.0.0.1|localhost|INFO|user/index|View all system users|[] 

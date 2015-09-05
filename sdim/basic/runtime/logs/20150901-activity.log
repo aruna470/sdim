@@ -1,0 +1,17 @@
+2015-09-01|05:42:56|super@gmail.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-09-01|19:20:06|super@gmail.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-09-01|19:20:16|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|19:34:34|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|19:48:51|super@gmail.com|127.0.0.1|localhost.com|INFO|user/create|System user create. Validation failed.|[{"email":["Email \"aruna470@gmail.com\" has already been taken."],"username":["Username \"sdf\" has already been taken."]}] 
+2015-09-01|20:04:23|super@gmail.com|127.0.0.1|localhost.com|INFO|user/create|System user create. Validation failed.|[{"email":["Email \"aruna4701@gmail.com\" has already been taken."],"username":["Username \"sdf4\" has already been taken."]}] 
+2015-09-01|20:04:32|super@gmail.com|127.0.0.1|localhost.com|INFO|user/create|System user created.|[{"id":5,"firstName":"ssdf","lastName":"sdf","email":"aruna4dd701@gmail.com","username":"sdfdd4","password":"$rCuzM1MHJuig","oldPassword":null,"role":"ttt","createdAt":"2015-09-01 14:34:31","createdById":1,"updatedAt":null,"updatedById":null,"timeZone":"Africa\/Algiers","status":1,"type":null}] 
+2015-09-01|20:04:32|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|20:05:25|super@gmail.com|127.0.0.1|localhost.com|INFO|user/update|System user updated|[{"id":5,"firstName":"ssdf","lastName":"sdf","email":"aruna4dd701@gmail.com","username":"sdfdd4555555555","password":"$rCuzM1MHJuig","oldPassword":null,"role":"ttt","createdAt":"2015-09-01 14:34:31","createdById":1,"updatedAt":"2015-09-01 14:35:25","updatedById":1,"timeZone":"Africa\/Algiers","status":1,"type":0}] 
+2015-09-01|20:05:25|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|20:07:49|super@gmail.com|127.0.0.1|localhost.com|INFO|user/delete|User deleted.|{"id":"5"} 
+2015-09-01|20:07:49|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|20:07:52|super@gmail.com|127.0.0.1|localhost.com|INFO|user/delete|User deleted.|{"id":"4"} 
+2015-09-01|20:07:52|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|20:07:55|super@gmail.com|127.0.0.1|localhost.com|INFO|user/delete|User deleted.|{"id":"3"} 
+2015-09-01|20:07:55|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-09-01|20:48:04|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 

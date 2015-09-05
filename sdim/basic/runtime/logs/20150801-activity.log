@@ -1,0 +1,29 @@
+2015-08-01|06:32:58|super@gmail.com|127.0.0.1|localhost|INFO|site/login|Login success|[] 
+2015-08-01|07:05:23|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bc225bdc78c12c09000029"},"keyword":"obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 01:35:23"}] 
+2015-08-01|07:17:13|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bc225bdc78c12c09000029"} 
+2015-08-01|07:17:18|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag create failed. Validation failed.|[{"keyword":["Keyword \"obama\" has already been taken."]}] 
+2015-08-01|07:17:30|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bc2532dc78c12c0900002a"},"keyword":"obamas","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 01:47:30"}] 
+2015-08-01|16:31:48|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bca0cfdc78c1c80b000029"},"keywordId":"55b8dc2adc78c14c12000029","eventName":"asdasfd","status":"2","accountId":"55b7ac55dc78c1a81200002f"}] 
+2015-08-01|16:31:56|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bca0cfdc78c1c80b000029"},"keywordId":"55bc2532dc78c12c0900002a","eventName":"asdasfd","status":"2","accountId":"55b7ac55dc78c1a81200002f"}] 
+2015-08-01|17:45:40|super@gmail.com|127.0.0.1|localhost|INFO|event/create|Event created.|[{"_id":{"$id":"55bcb86cdc78c1d80d000029"},"keywordId":"55b8dc2adc78c14c12000029","eventName":"obama","status":"1","accountId":"55b7ac55dc78c1a81200002f"}] 
+2015-08-01|17:47:59|super@gmail.com|127.0.0.1|localhost|INFO|user/index|View all system users|[] 
+2015-08-01|17:51:33|super@gmail.com|127.0.0.1|localhost|INFO|user/index|View all system users|[] 
+2015-08-01|19:32:30|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bc2532dc78c12c0900002a"} 
+2015-08-01|21:23:27|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b8dc2adc78c14c12000029"} 
+2015-08-01|21:23:50|super@gmail.com|127.0.0.1|localhost|INFO|account/delete|Account deleted.|{"id":"55b7ac55dc78c1a81200002f"} 
+2015-08-01|21:34:05|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bcedf5dc78c1f405000029"},"keyword":"sssd","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:04:05"}] 
+2015-08-01|21:34:11|super@gmail.com|127.0.0.1|localhost|INFO|account/create|Account created.|[{"_id":{"$id":"55bcedfbdc78c1f40500002a"},"twitterHandler":"sdfsdf","oauthToken":"sdfsf","oauthTokenSecret":"sdfsdf","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:04:11"}] 
+2015-08-01|21:34:21|super@gmail.com|127.0.0.1|localhost|INFO|event/create|Event created.|[{"_id":{"$id":"55bcee05dc78c1f40500002b"},"keywordId":"55bcedf5dc78c1f405000029","eventName":"sdfsf","status":"1","accountId":"55bcedfbdc78c1f40500002a"}] 
+2015-08-01|21:34:58|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword delete failed. Attached to an event|{"id":"55bcedf5dc78c1f405000029"} 
+2015-08-01|21:35:11|super@gmail.com|127.0.0.1|localhost|INFO|account/delete|Account delete failed. Associated with an event|[] 
+2015-08-01|21:36:50|super@gmail.com|127.0.0.1|localhost|INFO|event/delete|Event deleted.|{"id":"55bcee05dc78c1f40500002b"} 
+2015-08-01|21:36:54|super@gmail.com|127.0.0.1|localhost|INFO|account/delete|Account deleted.|{"id":"55bcedfbdc78c1f40500002a"} 
+2015-08-01|21:36:59|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bcedf5dc78c1f405000029"} 
+2015-08-01|21:37:11|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bceeafdc78c1c012000029"},"keyword":"#gaggletest","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:07:11"}] 
+2015-08-01|21:38:08|super@gmail.com|127.0.0.1|localhost|INFO|account/create|Account created.|[{"_id":{"$id":"55bceee8dc78c1c01200002a"},"twitterHandler":"ArunaAttanayake","oauthToken":"797991714-8g8ADuhYgaJlhMWV0XLJpMtGDMlwMBr47IgvAGFZ","oauthTokenSecret":"ARJMwzCmzJYOcEUEIi54k0PliEqHt5SpAIhq9atwP14ls","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:08:08"}] 
+2015-08-01|21:38:38|super@gmail.com|127.0.0.1|localhost|INFO|event/create|Event created.|[{"_id":{"$id":"55bcef06dc78c1c01200002b"},"keywordId":"55bceeafdc78c1c012000029","eventName":"Test Event","status":"1","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-01|21:48:06|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bcf13edc78c1d80d00002a"},"keyword":"#gagtest","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:18:06"}] 
+2015-08-01|21:48:16|super@gmail.com|127.0.0.1|localhost|INFO|event/update|Event updated.|[{"_id":{"$id":"55bcef06dc78c1c01200002b"},"keywordId":"55bcf13edc78c1d80d00002a","eventName":"Test Event","status":"1","accountId":"55bceee8dc78c1c01200002a"}] 
+2015-08-01|21:48:24|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bceeafdc78c1c012000029"} 
+2015-08-01|21:51:09|super@gmail.com|127.0.0.1|localhost|INFO|keyword/create|Hash tag created.|[{"_id":{"$id":"55bcf1f5dc78c1d80d00002b"},"keyword":"obama","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-08-01 16:21:09"}] 
+2015-08-01|21:51:45|super@gmail.com|127.0.0.1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55bcf1f5dc78c1d80d00002b"} 

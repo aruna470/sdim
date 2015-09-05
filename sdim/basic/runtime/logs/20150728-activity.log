@@ -1,0 +1,18 @@
+2015-07-28|16:06:42|super@gmail.com|::1|localhost|INFO|user/index|View all system users|[] 
+2015-07-28|18:15:28|super@gmail.com|::1|localhost|INFO|site/login|Login success|[] 
+2015-07-28|19:45:25|super@gmail.com|::1|localhost|INFO|user/index|View all system users|[] 
+2015-07-28|20:31:53|super@gmail.com|::1|localhost|INFO|N/A|Hash tag create failed. Validation failed.|[{"keyword":["Keyword cannot be blank."],"createdById":["Created By ID cannot be blank."],"createdAt":["Created At cannot be blank."]}] 
+2015-07-28|20:32:03|super@gmail.com|::1|localhost|INFO|N/A|Hash tag create failed. Validation failed.|[{"createdById":["Created By ID cannot be blank."],"createdAt":["Created At cannot be blank."]}] 
+2015-07-28|20:33:07|super@gmail.com|::1|localhost|INFO|N/A|Hash tag created.|[{"_id":{"$id":"55b799abdc78c1a81200002a"},"keyword":"#gaggletest","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 15:03:07"}] 
+2015-07-28|20:55:09|super@gmail.com|::1|localhost|INFO|N/A|Hash tag created.|[{"_id":{"$id":"55b79ed5dc78c1a81200002b"},"keyword":"fdgdgfd","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 15:25:09"}] 
+2015-07-28|20:57:58|super@gmail.com|::1|localhost|INFO|user/index|View all system users|[] 
+2015-07-28|21:00:26|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b78e72dc78c1a412000029"} 
+2015-07-28|21:00:30|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b79036dc78c1a812000029"} 
+2015-07-28|21:00:33|super@gmail.com|::1|localhost|INFO|keyword/delete|Keyword deleted.|{"id":"55b79ed5dc78c1a81200002b"} 
+2015-07-28|21:41:43|super@gmail.com|::1|localhost|INFO|keyword/create|Hash tag create failed. Validation failed.|[{"keyword":["Keyword cannot be blank."]}] 
+2015-07-28|21:47:28|super@gmail.com|::1|localhost|INFO|account/create|Account tag create failed. Validation failed.|[{"twitterHandler":["Twitter Handler cannot be blank."],"oauthToken":["Oauth Token cannot be blank."],"oauthTokenSecret":["Oauth Token Secret cannot be blank."]}] 
+2015-07-28|21:47:44|super@gmail.com|::1|localhost|INFO|account/create|Account created.|[{"_id":{"$id":"55b7ab28dc78c1a81200002e"},"twitterHandler":"sdfasdf","oauthToken":"asdfasdf","oauthTokenSecret":"asdfasf","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 16:17:44"}] 
+2015-07-28|21:52:45|super@gmail.com|::1|localhost|INFO|account/create|Account created.|[{"_id":{"$id":"55b7ac55dc78c1a81200002f"},"twitterHandler":"eeee","oauthToken":"eee","oauthTokenSecret":"eee","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 16:22:45"}] 
+2015-07-28|21:56:52|super@gmail.com|::1|localhost|INFO|account/update|Account updated.|[{"_id":{"$id":"55b7ac55dc78c1a81200002f"},"twitterHandler":"eeee","oauthToken":"eee","oauthTokenSecret":"eeesssssss","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 16:22:45"}] 
+2015-07-28|21:57:03|super@gmail.com|::1|localhost|INFO|account/update|Account updated.|[{"_id":{"$id":"55b7ab28dc78c1a81200002e"},"twitterHandler":"sdfasdf","oauthToken":"asdfasdf","oauthTokenSecret":"asdfasf111111111","createdById":{"$id":"5545d270dc78c1380c000030"},"createdAt":"2015-07-28 16:17:44"}] 
+2015-07-28|21:59:25|super@gmail.com|::1|localhost|INFO|account/delete|Account deleted.|{"id":"55b7ab28dc78c1a81200002e"} 

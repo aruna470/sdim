@@ -1,0 +1,12 @@
+2015-07-21|20:39:42|super@gmail.com|127.0.0.1|localhost.com|INFO|site/logout|Logout success|[] 
+2015-07-21|20:40:01|Guest|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-07-21|20:40:51|super@gmail.com|127.0.0.1|localhost.com|INFO|site/logout|Logout success|[] 
+2015-07-21|20:40:55|Guest|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-07-21|20:41:57|super@gmail.com|127.0.0.1|localhost.com|INFO|user/advertiser|View all advertisers|[] 
+2015-07-21|20:42:14|super@gmail.com|127.0.0.1|localhost.com|INFO|user/advertiser|View all advertisers|[] 
+2015-07-21|20:42:51|super@gmail.com|127.0.0.1|localhost.com|INFO|user/advertiser|View all advertisers|[] 
+2015-07-21|20:43:00|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-07-21|20:43:03|super@gmail.com|127.0.0.1|localhost.com|INFO|user/delete|User deleted.|{"id":"5569169fdc78c15c09000029"} 
+2015-07-21|20:43:04|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 
+2015-07-21|20:43:07|super@gmail.com|127.0.0.1|localhost.com|INFO|user/delete|User deleted.|{"id":"5561c8a2dc78c1681700002a"} 
+2015-07-21|20:43:07|super@gmail.com|127.0.0.1|localhost.com|INFO|user/index|View all system users|[] 

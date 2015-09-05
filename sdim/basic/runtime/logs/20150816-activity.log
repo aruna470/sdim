@@ -1,0 +1,8 @@
+2015-08-16|20:57:56|admin@gmal.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-08-16|21:11:55|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-name|Product name updated.|[] 
+2015-08-16|21:12:12|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-text|Product text updated.|[] 
+2015-08-16|21:12:24|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-name|Product name updated.|[] 
+2015-08-16|21:12:53|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-name|Product name updated.|[] 
+2015-08-16|21:13:00|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-text|Product text updated.|[] 
+2015-08-16|21:13:18|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-text|Product text updated.|[] 
+2015-08-16|21:13:22|admin@gmal.com|127.0.0.1|localhost.com|INFO|event/update-product-name|Product name updated.|[] 

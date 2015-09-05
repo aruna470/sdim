@@ -1,0 +1,112 @@
+body {
+    background-color: #EDECEC;
+}
+
+.page {
+	margin-top:70px;
+}
+
+.page-popup {
+	margin-top:10px;
+}
+
+.card {
+    position: relative;
+    background: none repeat scroll 0% 0% #FFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+	margin-top:10px;
+    padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.card .card-header:not(.ch-alt) {
+
+}
+
+.card .card-header {
+    position: relative;
+	padding-bottom: 10px;
+}
+
+.card-header > h2 {
+	margin-top:0px;
+}
+
+.breadcrumb {
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+	border-radius: 0px;
+}
+
+.footer {
+	margin-top:5px;
+}
+
+.grid-view > table > thead {
+	background: #B77C9C; 
+}
+
+.grid-view > table > thead > tr > th > a{
+	 color: #ffffff;
+}
+
+.grid-view > table > thead > tr > th {
+    border-bottom: 0 solid #dddddd;
+}
+
+.grid-view > table > thead > tr > th {
+	color:#ffffff;
+}
+
+a{
+	color:#9E1F63;
+}
+
+.summary {
+    padding-bottom: 10px;
+	text-align: right;
+}
+
+div.required label:after {
+    content: " *";
+    color: red;
+}
+
+.form-inline > .form-group > input, select {
+	margin-bottom: 10px;
+}
+
+.inactive{
+	color:#AEA79F !important;
+}
+.inactive a{
+	color:#AEA79F !important;
+}
+
+/* Loigin Page */
+.login-page-content {
+	left:35%;
+	width:25%;
+	height:auto;
+	top:15%;
+	position:absolute;
+	background:#ffffff;
+	padding:20px;
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.login-title {
+  margin: -20px -20px 21px;
+  line-height: 60px;
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 0 1px white;
+  background: #772953;
+  -webkit-box-shadow: 0 1px whitesmoke;
+  font-size: 20px;
+  font-weight: 200;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2)
+}
+/* End */

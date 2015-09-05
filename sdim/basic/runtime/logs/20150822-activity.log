@@ -1,0 +1,11 @@
+2015-08-22|06:46:59|super@gmail.com|127.0.0.1|localhost.com|INFO|site/login|Login success|[] 
+2015-08-22|06:48:10|super@gmail.com|127.0.0.1|localhost.com|INFO|event/update|Event updated.|[{"_id":{"$id":"55d72c13dc78c1801200003a"},"keywords":"#xyz,#xyz","eventName":"xyz","status":1,"oauthToken":"797991714-TnPrpKA32H67m4httkNXti44ZyykA4Wrz2BZsjQa","oauthTokenSecret":"8ZjhlJVPmqvrbMQ2GK69Qy3hHWZor1GaB89nbsow1V6LN","totPhotoTweets":null,"totTagDet":null,"lastTweetDateTime":null,"lastTweetRequest":null,"lastTweetResponse":null,"lastReqTweetUrl":null,"lastResTweetUrl":null,"resTwitterHandler":"ArunaAttanayake","testdata":null,"apiUserName":"xyz","sinceId":null}] 
+2015-08-22|07:06:42|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-22|07:06:56|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter authentication success|[] 
+2015-08-22|07:06:57|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter token details saved.|{"eventId":"55d72c13dc78c1801200003a"} 
+2015-08-22|07:07:35|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-22|07:07:41|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter authentication success|[] 
+2015-08-22|07:07:43|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter token details saved.|{"eventId":"55d72c13dc78c1801200003a"} 
+2015-08-22|07:08:38|super@gmail.com|127.0.0.1|localhost.com|INFO|site/twitter-authenticate|Going to authenticate with Twitter|[] 
+2015-08-22|07:08:44|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter authentication success|[] 
+2015-08-22|07:08:45|super@gmail.com|127.0.0.1|localhost.com|INFO|site/tw-callback|Twitter token details saved.|{"eventId":"55d72c13dc78c1801200003a"} 
